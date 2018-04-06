@@ -1,0 +1,3 @@
+Hi, welcome to the first text file.
+
+Please feel free to add any information.
